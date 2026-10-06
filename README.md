@@ -28,6 +28,10 @@ Wynik builda trafia do katalogu `dist`.
 
 ## Cloudflare Pages
 
+Project URL:
+
+- https://kamper-rent.pages.dev
+
 Rekomendowane ustawienia projektu Cloudflare Pages:
 
 - Repository: repo GitHub z tym projektem
